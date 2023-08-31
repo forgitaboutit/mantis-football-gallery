@@ -1,0 +1,29 @@
+div#MainMenu {
+	width: 1000px;
+	height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#MainMenu > div.MainMenuItem {
+	float: left;
+  color: white;
+	font-family: Times;
+	font-size: 24px;
+	padding-top: 12px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+div#MainMenu > div.MainMenuItem:hover {
+	cursor: pointer;
+	background-color: gray;
+}
+
+div#MainMenu > div.MainMenuItem#YouTubeChannelLink {
+	float: right;
+}
+div#MainMenu > div.MainMenuItem#YouTubeChannelLink:hover {
+	background-color: black;
+}

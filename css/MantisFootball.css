@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	font-family: Times;
+  padding-bottom: 10px;
+}
+
+a:link {
+	color: #39FF14;
+	text-decoration: none;
+}
+a:visited {
+	color: #39FF14;
+	text-decoration: none;
+}
+a:hover {
+	color: #39FF14;
+	text-decoration: none;
+}
+a:active {
+	color: #39FF14;
+	text-decoration: none;
+}

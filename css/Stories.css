@@ -1,0 +1,26 @@
+div#Stories {
+	background: #444444;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+div.Story > div {
+	color: white;
+  margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	font-family: Times;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+div.Story > div.StoryDateReleased {
+}
+div.Story > div.StoryCategory {
+}
+div.Story > div.StoryText {
+}
+div.Story > div.StoryImages > div {
+	margin-top: 10px;
+}

@@ -1,0 +1,9 @@
+#ImageTransitionContainer {
+  position: relative;
+  margin: 0 auto;
+}
+
+#ImageTransitionContainer img {
+  position: absolute;
+  left: 0;
+}

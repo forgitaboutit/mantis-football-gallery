@@ -1,0 +1,19 @@
+#ImageTransitionContainer {
+  width: 1000px;
+	height: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ImageTransitionContainer > img {
+	width: 1000px;
+	height: 750px;
+}
+
+#About {
+  display: none;
+}
+
+#Stories {
+  display: none;
+}
