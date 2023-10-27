@@ -1,7 +1,7 @@
-var images = ['/mantis-football-gallery/images/bis/bis_base.jpg',
-							'/mantis-football-gallery/images/bis/bis_3_leaves_stripes.jpg',
-							'/mantis-football-gallery/images/bis/bis_cannabis_herbalife.jpg',
-							'/mantis-football-gallery/images/bis/bis_spiral.jpg'];
+var images = ['/images/bis/bis_base.jpg',
+							'/images/bis/bis_3_leaves_stripes.jpg',
+							'/images/bis/bis_cannabis_herbalife.jpg',
+							'/images/bis/bis_spiral.jpg'];
 
 var topImage, bottomImage;
 var nextImageIndex = 2;
